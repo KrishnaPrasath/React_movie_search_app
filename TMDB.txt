@@ -1,0 +1,14 @@
+TMDb offers a powerful API service that is free to use as long as you properly attribute us as the source of the data and/or images you use. You can find the logos for attribution here.
+
+Documentation
+=============
+
+Our primary documentation is located at developers.themoviedb.org.
+
+App Directory
+=============
+
+Once you have completed your application, add it to the app directory!
+
+
+Get your API key 
