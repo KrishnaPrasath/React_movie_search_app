@@ -4,7 +4,7 @@ export default function SearchMovies() {
 
     const [ query , setQuery ] = useState('');
     const [ movies , setMovies ] = useState([]);
-    const api_key = '#####################################';
+    const api_key = 'a428667e3c89271818f2a85a5e9200a9';
     const searchMovies = async (event) => {
         event.preventDefault();
         
